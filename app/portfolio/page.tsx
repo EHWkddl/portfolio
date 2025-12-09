@@ -30,6 +30,12 @@ export default function PortfolioPage() {
       description: 'Clerk 인증 로그인 프로젝트',
       image: '/clerk.png',
     },
+    {
+      title: 'CRUD',
+      link: 'https://crud-d79p.vercel.app/',
+      description: 'CRUD 예제 프로젝트',
+      image: '/crudex.png',
+    },
   ]
 
   return (
